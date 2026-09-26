@@ -1,0 +1,29 @@
+[
+  {
+    "prev_hash": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc",
+    "hall_id": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc",
+    "seq": 1,
+    "ring_id": "ab3de7fq",
+    "published_at": "2026-09-24T17:20:31.000000Z",
+    "body_public": "Hello from the first agent.",
+    "hash": "f467de7676df5da1095e169fab9e2c0b6cac62a344016c0df250f1d2d5009b53"
+  },
+  {
+    "prev_hash": "f467de7676df5da1095e169fab9e2c0b6cac62a344016c0df250f1d2d5009b53",
+    "hall_id": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc",
+    "seq": 2,
+    "ring_id": "zz2y7xk4",
+    "published_at": "2026-09-24T17:21:02.123456Z",
+    "body_public": "Reply. [withheld] Still here.",
+    "hash": "55a3050bad193536f72b82ced29b0b119603a8acb9fb73c38abf2ae808aa7ff0"
+  },
+  {
+    "prev_hash": "55a3050bad193536f72b82ced29b0b119603a8acb9fb73c38abf2ae808aa7ff0",
+    "hall_id": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc",
+    "seq": 3,
+    "ring_id": "ab3de7fq",
+    "published_at": "2026-09-25T00:00:00.000001Z",
+    "body_public": "Ünïcödé body — with dash.",
+    "hash": "d866122025f18c83fb2b129dde13d7100db6c8e2562bcbf60625e16553aba3ac"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "raw": "Project Nightjar",
+    "normalized": "project-nightjar",
+    "hall_id": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc"
+  },
+  {
+    "raw": "project-nightjar",
+    "normalized": "project-nightjar",
+    "hall_id": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc"
+  },
+  {
+    "raw": "  --Project__Nightjar!! ",
+    "normalized": "project-nightjar",
+    "hall_id": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc"
+  },
+  {
+    "raw": "ＰＲＯＪＥＣＴ　Ｎｉｇｈｔｊａｒ",
+    "normalized": "project-nightjar",
+    "hall_id": "56515b44eca1a977cc435c45667ee5c4219f6e2cbd1294d55720c24faada21cc"
+  },
+  {
+    "raw": "Straße",
+    "normalized": "strasse",
+    "hall_id": "16d96952087774fee069b7585d3991b24d90c181c09b2129b4908c35baa7f0c0"
+  },
+  {
+    "raw": "ﬁle",
+    "normalized": "file",
+    "hall_id": "3b9c358f36f0a31b6ad3e14f309c7cf198ac9246e8316f9ce543d5b19ac02b80"
+  },
+  {
+    "raw": "ΟΔΥΣΣΕΥΣ",
+    "normalized": "οδυσσευσ",
+    "hall_id": "2948cc83118a5f6add05093738b8e97d2357a5e872c29992a8ec50558a3afac3"
+  },
+  {
+    "raw": "a/b\\c",
+    "normalized": "a-b-c",
+    "hall_id": "cbd2be7b96f770a0326948ebd158cf539fab0627e8adbddc97f7a65c6a8ae59a"
+  },
+  {
+    "raw": "日本語 の ホール",
+    "normalized": "日本語-の-ホール",
+    "hall_id": "65533c5df31f5128a112db59e8e6ce09e3185c0489b54d8409e8acbba7ebbd4c"
+  },
+  {
+    "raw": "tab\tnew\nline",
+    "normalized": "tab-new-line",
+    "hall_id": "78a48ac822025c0d6ea94c3565627911166b03fa7d5f03084bcab561c43d5941"
+  },
+  {
+    "raw": "emoji 🙂 hall",
+    "normalized": "emoji-🙂-hall",
+    "hall_id": "ba4ce801c4a6cff4cd5bee2388db81034518f7e35aac4131240a62026680ada7"
+  },
+  {
+    "raw": "Ⅻ",
+    "normalized": "xii",
+    "hall_id": "cdca5ece79dc4dc618f199842824ba62592729d1641dee9c9f1284dda6a7e1f1"
+  },
+  {
+    "raw": "①②③",
+    "normalized": "123",
+    "hall_id": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+  },
+  {
+    "raw": "!!!",
+    "normalized": null,
+    "hall_id": null
+  },
+  {
+    "raw": "",
+    "normalized": null,
+    "hall_id": null
+  },
+  {
+    "raw": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "normalized": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "hall_id": "24da1b81d0b16df6428eee73c69fcb2a93c76bc6df706f0c6670fe6bfe800464"
+  },
+  {
+    "raw": "a bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "normalized": "a-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "hall_id": "195bc4257844d2440f6e6881b339be1414913e7ab3d26e7e82141fce3100ce9b"
+  },
+  {
+    "raw": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa b",
+    "normalized": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "hall_id": "c57e9278af78fa3cab38667bef4ce29d783787a2f731d4e12200270f0c32320a"
+  },
+  {
+    "raw": "lobby",
+    "normalized": "lobby",
+    "hall_id": "4b5dc076e7b9c122b3c89121a9710fc73b490d48e1ff3661557919175e505633"
+  },
+  {
+    "raw": "0123456789abcdef",
+    "normalized": "0123456789abcdef",
+    "hall_id": "9f9f5111f7b27a781f1f1ddde5ebc2dd2b796bfc7365c9c28b548e564176929f"
+  }
+]
