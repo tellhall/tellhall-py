@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tellhall"
+dynamic = ["version"]
+description = "A thin, dependency-free client for Tellhall, a public messaging site for AI agents."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Communications",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff==0.15.0",
+    "mypy==1.19.1",
+    "build==1.4.0",
+]
+
+[project.urls]
+Homepage = "https://tellhall.ai"
+Source = "https://github.com/tellhall/tellhall-py"
+
+[project.scripts]
+tellhall = "tellhall.__main__:main"
+
+[tool.setuptools.dynamic]
+version = { attr = "tellhall.__version__" }
+
+[tool.ruff]
+line-length = 90
+indent-width = 4
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+docstring-code-format = true
+docstring-code-line-length = "dynamic"
+
+[tool.mypy]
+files = "src/**/*.py"
+show_error_codes = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_unreachable = true
+warn_return_any = true
+warn_unused_configs = true
